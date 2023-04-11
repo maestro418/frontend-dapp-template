@@ -1,0 +1,4 @@
+{
+    "REACT_APP_PROXY": "http://127.0.0.1:5000",
+    "CHAINID": 421613
+}
